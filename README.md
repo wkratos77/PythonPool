@@ -245,7 +245,7 @@ python3 Module09/ex0/space_station.py
 
 - Pydantic v2 (Module09)
 
-##👤 Author
+## 👤 Author
 
 Walid Krati
 Software Engineering Student — Python • Backend • Architecture
